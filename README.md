@@ -1,2 +1,2 @@
 # Visao-Computacional
-Atividades utilizando tecnicas de visão computacional
+Atividades utilizando técnicas de visão computacional
